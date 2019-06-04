@@ -1,21 +1,7 @@
-[
-  {
-    "id": 1,
-    "title": "Jonh Issac",
-    "city": "London",
-    "students": "4"
-  },
-  {
-    "id": 2,
-    "title": "Jonh Issac",
-    "city": "Manchester",
-    "students": "3"
-  },
-  {
-    "id": 3,
-    "title": "Jonh Issac",
-    "city": "Liverpool",
-    "students": "3"
-  },
-  
-]
+{
+  "user": [
+    { "id": 1, "name": "John Issac", "city": "London", "students": "4" },
+    { "id": 2, "name": "John Issac", "city": "Manchester", "students": "3" },
+    { "id": 3, "name": "John Issac", "city": "Liverpool", "students": "2" }
+  ]
+}
