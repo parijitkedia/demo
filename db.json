@@ -1,5 +1,11 @@
 {
-  "user": [
-    { "id": 1, "title": "Jonh Issac", "city": "London", "students": "4" }
-  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
