@@ -1,6 +1,5 @@
 {
   "user": [
-    { "id": 1, "title": "Jonh Issac", "city": "London", "students": "4" },
-    { "id": 2, "title": "John Issac", "city": "Manchester", "students": "4"}
+    { "id": 1, "title": "Jonh Issac", "city": "London", "students": "4" }
   ]
 }
