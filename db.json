@@ -1,8 +1,8 @@
 {
   "user": [
-    { "id": 1, "name": "John Issac", "city": "London", "students": 4 },
-    { "id": 2, "name": "John Issac", "city": "Manchester", "students": 3 },
-    { "id": 3, "name": "John Issac", "city": "Liverpool", "students": 2 },
-    { "id": 4, "name": "John Issac", "city": "London", "students": 2 }
+    { "id": 1, "name": "John Issac", "city": "London", "students": [ { "id":1},{ "id":2},{ "id":3},{ "id":4} ] },
+    { "id": 2, "name": "John Issac", "city": "Manchester", "students": [ { "id":1},{ "id":2},{ "id":3} ] },
+    { "id": 3, "name": "John Issac", "city": "Liverpool", "students": [ { "id":1},{ "id":2} ] },
+    { "id": 4, "name": "John Issac", "city": "London", "students": [ { "id":1},{ "id":2} ] }
   ]
 }
