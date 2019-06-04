@@ -1,13 +1,6 @@
 {
-  "name": [
-    { "id": 1, "title": "Jonh Issac" },
-    { "id": 2, "title": "John Issac" }
-  ],
-  "city": [
-    { "id": 1, "body": "London"},
-    { "id": 2, "body": "Manchester"}
-  ],
-  "students": {
-    "id": "4"
-  }
+  "user": [
+    { "id": 1, "title": "Jonh Issac", "city": "London", "students": "4" },
+    { "id": 2, "title": "John Issac", "city": "Manchester", "students": "4"}
+  ]
 }
