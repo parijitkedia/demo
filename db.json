@@ -1,11 +1,21 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "id": 1,
+    "title": "Jonh Issac",
+    "city": "London",
+    "students": "4"
+  },
+  {
+    "id": 2,
+    "title": "Jonh Issac",
+    "city": "Manchester",
+    "students": "3"
+  },
+  {
+    "id": 3,
+    "title": "Jonh Issac",
+    "city": "Liverpool",
+    "students": "3"
+  },
+  
+]
