@@ -1,14 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "name": [
+    { "id": 1, "title": "Jonh Issac" },
+    { "id": 2, "title": "John Issac" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "city": [
+    { "id": 1, "body": "London"},
+    { "id": 2, "body": "Manchester"}
   ],
-  "profile": {
-    "name": "typicode"
+  "students": {
+    "id": "4"
   }
 }
