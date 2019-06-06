@@ -2,7 +2,7 @@
    "user": [
       {
          "id": 1,
-         "name": "John Issac",
+         "name": "BDC Issac",
          "city": "London",
          "students": [
             {
@@ -37,7 +37,7 @@
       },
       {
          "id": 3,
-         "name": "John Issac",
+         "name": "ABC Issac",
          "city": "Liverpool",
          "students": [
             {
@@ -50,7 +50,7 @@
       },
       {
          "id": 4,
-         "name": "John Issac",
+         "name": "ABC Issac",
          "city": "London",
          "students": [
             {
