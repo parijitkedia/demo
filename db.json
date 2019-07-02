@@ -2,64 +2,27 @@
    "user": [
       {
          "id": 1,
-         "name": "BDC Issac",
-         "city": "London",
-         "students": [
-            {
-               "id": 1
-            },
-            {
-               "id": 2
-            },
-            {
-               "id": 3
-            },
-            {
-               "id": 4
-            }
-         ]
+         "title": "Frontend Developer",
+         "description": "Comfortable with modern JS stack, experience with React.",
+         "employment_type": "full_time"
       },
       {
-         "id": 2,
-         "name": "John Issac",
-         "city": "Manchester",
-         "students": [
-            {
-               "id": 1
-            },
-            {
-               "id": 2
-            },
-            {
-               "id": 3
-            }
-         ]
+        "id": 2,
+         "title": "Backend Developer",
+         "description": "Comfortable with PHP",
+         "employment_type": "full_time"
       },
       {
-         "id": 3,
-         "name": "ABC Issac",
-         "city": "Liverpool",
-         "students": [
-            {
-               "id": 1
-            },
-            {
-               "id": 2
-            }
-         ]
+        "id": 3,
+         "title": "Software Developer",
+         "description": "Comfortable with C++",
+         "employment_type": "full_time"
       },
       {
-         "id": 4,
-         "name": "ABC Issac",
-         "city": "London",
-         "students": [
-            {
-               "id": 1
-            },
-            {
-               "id": 2
-            }
-         ]
+        "id": 4,
+         "title": "Application Developer",
+         "description": "Comfortable with Android/iOS",
+         "employment_type": "full_time"
       }
    ]
 }
